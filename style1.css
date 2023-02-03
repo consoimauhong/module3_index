@@ -1,0 +1,35 @@
+* {
+    font-family: "Playfair Display","Times New Roman", serif;
+    font-size: 18px;
+}
+#content {
+    border-top: 3px solid #E8E2E2;
+}
+
+[class*="paragraph-"] {
+    text-indent: 50px;
+}
+
+.vn {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #0081B4;
+}
+
+body {
+    text-align: justify;
+}
+
+sup {
+    font-size: 0.5em;
+    color: #3C79F5;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
